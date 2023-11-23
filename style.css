@@ -13,3 +13,24 @@ h2{
     color: red;
 
 }
+
+body {
+    background-color: #8a2be2;
+}
+
+#logo{
+    width: 300px;
+    margin: 0;
+    padding: 15;
+}
+
+ul{
+    text-align: inherit;
+    color: blue rgb(red, green, blue);
+}
+
+.cabecalho {
+    background-color: blue;
+    margin: 0;
+    padding: 5%;
+}
