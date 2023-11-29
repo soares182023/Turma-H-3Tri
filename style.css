@@ -6,7 +6,6 @@ h1{
 
 p{
     color: white;
-    font-size: 20px;   
 }
 h2{
     text-align: center;
@@ -19,11 +18,6 @@ body {
     background-color: #9ce22b;
 }
 
-header{
-    padding: 20px;
-    background-color:#D9CECI;
-    border-bottom: 3x
-}
 #logo{
     width: 300px;
     margin: 0;
